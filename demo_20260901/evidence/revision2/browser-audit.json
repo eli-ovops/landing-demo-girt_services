@@ -1,0 +1,44 @@
+[
+  {
+    "name": "desktop",
+    "status": 200,
+    "errors": [
+      "Failed to load resource: the server responded with a status of 404 (File not found)"
+    ],
+    "metrics": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "title": "Girt Services LTD | Independent concept preview",
+      "links": [
+        "http://127.0.0.1:4173/#contact",
+        "https://girtcarpetcleaning.co.uk/",
+        "tel:+447471887426",
+        "https://www.checkatrade.com/trades/Girtservicesltd",
+        "https://www.checkatrade.com/trades/Girtservicesltd",
+        "https://girtcarpetcleaning.co.uk/",
+        "tel:+447471887426",
+        "mailto:[REDACTED_EMAIL]"
+      ]
+    }
+  },
+  {
+    "name": "mobile",
+    "status": 200,
+    "errors": [],
+    "metrics": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "title": "Girt Services LTD | Independent concept preview",
+      "links": [
+        "http://127.0.0.1:4173/#contact",
+        "https://girtcarpetcleaning.co.uk/",
+        "tel:+447471887426",
+        "https://www.checkatrade.com/trades/Girtservicesltd",
+        "https://www.checkatrade.com/trades/Girtservicesltd",
+        "https://girtcarpetcleaning.co.uk/",
+        "tel:+447471887426",
+        "mailto:[REDACTED_EMAIL]"
+      ]
+    }
+  }
+]

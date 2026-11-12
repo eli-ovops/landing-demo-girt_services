@@ -1,0 +1,20 @@
+[
+  {
+    "id": "desktop_1440x900",
+    "w": 1440,
+    "h": 900,
+    "http": 200,
+    "errors": [],
+    "scrollWidth": 1440,
+    "clientWidth": 1440
+  },
+  {
+    "id": "mobile_390x844",
+    "w": 390,
+    "h": 844,
+    "http": 200,
+    "errors": [],
+    "scrollWidth": 390,
+    "clientWidth": 390
+  }
+]
